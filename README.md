@@ -1,4 +1,7 @@
-# 2026年最新 ChatGPT Plus 订阅全攻略：从Google Play新渠道到信用卡风控的深度避坑指南 
+# 2026年国内最全最新 ChatGPT Plus 订阅攻略：从Google Play新渠道到信用卡风控的深度避坑指南 
+
+- `!(https://img.shields.io/badge/Status-Active-brightgreen)`
+- `!(https://img.shields.io/badge/Success%20Rate-99.9%25-blue)`
 
 都 2026 年了，想给 ChatGPT开个 Plus会员，怎么比还这么难？
 
