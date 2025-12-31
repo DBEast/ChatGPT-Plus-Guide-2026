@@ -96,9 +96,9 @@
 1. 支付宝扫码支付购买卡密
 2. 复制购买的卡密+账号充值令牌信息进行充值
 
-![网站主界面](https://github.com/DBEast/ChatGPT-Plus-Guide-2026/tree/main/image/网站主界面.png)
+![网站主界面](image/main.png)
 
-![充值界面](https://github.com/DBEast/ChatGPT-Plus-Guide-2026/tree/main/image/充值界面.png)
+![充值界面](image/recharg.png)
 
 如图所示，具体步骤如下:
 
