@@ -96,9 +96,9 @@
 1. 支付宝扫码支付购买卡密
 2. 复制购买的卡密+账号充值令牌信息进行充值
 
-![网站主界面](D:\zdd\github_gpt\ChatGPT-Plus-Guide-2026\image\网站主界面.png)
+![网站主界面](https://github.com/DBEast/ChatGPT-Plus-Guide-2026/tree/main/image/网站主界面.png)
 
-![充值界面](D:\zdd\github_gpt\ChatGPT-Plus-Guide-2026\image\充值界面.png)
+![充值界面](https://github.com/DBEast/ChatGPT-Plus-Guide-2026/tree/main/image/充值界面.png)
 
 如图所示，具体步骤如下:
 
@@ -133,7 +133,7 @@
 
 在踩坑了无数家代充、甚至遇到过跑路的服务商后，我现在自己用的，以及推荐给我身边同事的，都是下面这个**全自动**的渠道。
 
-**传送门：[自助充值系统](https://link.zhihu.com/?target=https%3A//gpt-bingo.top/)**
+**传送门：[自助充值系统](https://gpt-bingo.top/)**
 
 **为什么推荐这个？** 这也是我折腾这么多支付方式之后的结论，就图它三点：
 
